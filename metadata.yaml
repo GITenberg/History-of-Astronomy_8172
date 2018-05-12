@@ -1,5 +1,8 @@
 _repo: History-of-Astronomy_8172
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Forbes, George
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2679'
     url: http://www.gutenberg.org/2009/agents/2679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8172#History-of-Astronomy
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
